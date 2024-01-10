@@ -4,7 +4,7 @@ const { Circle, Triangle, Square } = require("./shapes");
 const { writeFile } = require("fs/promises");
 
 class CLI {
-  return () {
+  run () {
     return inquirer
         .prompt([
             {
