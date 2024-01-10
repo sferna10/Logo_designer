@@ -1,4 +1,4 @@
-const { SVG } = request("./svg");
+const { SVG } = require("./svg");
 
 Run| Debug
 describe("svg", () => {

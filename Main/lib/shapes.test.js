@@ -1,8 +1,8 @@
 const { Square, Triangle, Circle } = require("./shapes");
 
-Run | Debug
+Run|Debug
 describe("Circle", () => {
-    Run | Debug
+    Run|Debug
     Test("should render svg for a green circle element", () => {
         const expectedSvg = '<circle cx="150" cy="100" r="80" fill="green" />';
         const circle = new circle();
