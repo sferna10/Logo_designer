@@ -4,7 +4,7 @@
   "description": "App to design logos",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

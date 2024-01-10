@@ -1,4 +1,4 @@
-const { Square, Triangle, Circle } = request("./shapes");
+const { Square, Triangle, Circle } = require("./shapes");
 
 Run | Debug
 describe("Circle", () => {
