@@ -33,7 +33,7 @@ class CLI {
                 message: "Enter a shape color",
             },
         ])
-        .then(({ text, textColor, shapeType, ShapeColor }) => {
+        .then(({ text, textColor, shapeType, shapeColor}) => {
             let shape;
             switch (shapeType) {
                 case "circle":
