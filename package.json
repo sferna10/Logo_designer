@@ -1,0 +1,21 @@
+{
+  "name": "logo_designer",
+  "version": "1.0.0",
+  "description": "App to design logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Logo_designer"
+  },
+  "author": "Silvia Fernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
