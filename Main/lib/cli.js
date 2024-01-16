@@ -25,7 +25,7 @@ class CLI {
                 name: "shapeType",
                 type: "list",
                 message: "Select a shape for the logo",
-                choices: ["circle", "Square", "triangle"],
+                choices: ["circle", "square", "triangle"],
             },
             {
                 name: "shapeColor",
