@@ -53,7 +53,7 @@ class CLI {
             const svg = new SVG();
             svg.setText(text, textColor);
             svg.setShape(shape);
-            return writeFile("logo.sgv", svg.render());
+            return writeFile("logo.svg", svg.render());
         })
         .then(() => {
             console.log("Generated logo.svg");
