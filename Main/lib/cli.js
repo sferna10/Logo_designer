@@ -18,14 +18,14 @@ class CLI {
             },
             {
                 name: "textColor",
-                Type: "input",
+                type: "input",
                 message: "Enter a text color",
             },
             {
                 name: "shapeType",
                 type: "list",
                 message: "Select a shape for the logo",
-                choices: ["circle", "square", "triangle"],
+                choices: ["circle", "Square", "triangle"],
             },
             {
                 name: "shapeColor",
@@ -59,7 +59,7 @@ class CLI {
             console.log("Generated logo.svg");
         })
         .catch((error) => {
-            console.log(error);
+            console.error(error);
             console.log("Oops! Something went wrong");
         });
     }
