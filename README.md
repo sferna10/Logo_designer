@@ -3,7 +3,7 @@
 
 ## Description
 
-The application helps customize logos and save them as an SVG file that is dynamically generated from a user’s input using Inquirer package and npm.
+The application helps customize logos and save them as an SVG file that is dynamically generated from a user’s input using the Inquirer package and npm.
 
 ## Table of Contents
 
@@ -29,22 +29,22 @@ SVG extension (Visual Studio code)
 
 ## Usage
 
+In the terminal, the user should type "node index.js" to start the program. To customize the logo, the user should answer a series of questions about the logo's characteristics. The user will decide the characters (max. 3), then the color of them, followed by the shape and shape color. THe final product will be generate as a SVG file.
 
 
 ## License 
     
-        This project is licensed under the MIT license.
 
 ## Contributing
 
-fork the project, make some commits to improve the project, open a pull request
+To fork the project, make some commits to improve the project, open a pull request.
 
 ## Tests
 
 To run tests, run the following command:
 ```
 
-npm tests
+npm  run test
 ```
 
 ## Questions
