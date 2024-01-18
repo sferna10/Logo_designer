@@ -31,7 +31,7 @@ SVG extension (Visual Studio code)
 
 In the terminal, the user should type "node index.js" to start the program. To customize the logo, the user should answer a series of questions about the logo's characteristics. The user will decide the characters (max. 3), then the color of them, followed by the shape and shape color. The final product will be generated as an SVG file.
 
-The application can be accessed [here]([ ](https://sferna10.github.io/Logo_designer/))
+
 
 ## License 
     
