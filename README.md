@@ -1,9 +1,9 @@
 # Logo_designer
-It is an application that helps customize logos and save them as an SVG file.
+
 
 ## Description
 
-A command-line application that dynamically generates a professional README.md file from a user’s input using Inquirer package and npm
+The application helps customize logos and save them as an SVG file that is dynamically generated from a user’s input using Inquirer package and npm.
 
 ## Table of Contents
 
@@ -20,16 +20,16 @@ A command-line application that dynamically generates a professional README.md f
 
 To install the necessary dependencies, run the following command:
 
-```
-
-npm i
+Node.js
+Jest,
+Inquire,
+SVG extension (Visual Studio code)
 
 ```
 
 ## Usage
 
-It requires Inquirer and npm installed.
-https://github.com/sferna10/Professional_README_generator/assets/139423719/2702d8c6-c31a-48ef-be67-56f7c5dda434
+
 
 ## License 
     
