@@ -4,7 +4,7 @@
 ## Description
 
 The application helps customize logos and save them as an SVG file that is dynamically generated from a user’s input using the Inquirer package and npm.
-
+The application can be accessed [here]( https://sferna10.github.io/Logo_designer/).
 ## Table of Contents
 
 * [Installation](#installation)
